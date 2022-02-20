@@ -19,7 +19,7 @@ There is a shortlist of turnaround airport videos available online.
 A list of youtube videos can be downloaded using the following:
 <https://drive.google.com/drive/folders/1ZuBrpAuvPmQ4P5a-26dgpZMdPjBPwRvD?usp=sharing>
 
-*Note:* The model is trained for detecting events of the turnaround process, but other videos from different cameras and perspectives could be used for testing the prototype. 
+*Note: The model is trained for detecting events of the turnaround process, but other videos from different cameras and perspectives could be used for testing the prototype. *
 
 ## Files in the project
 The list of files present in the project has the following meaning:
