@@ -25,8 +25,10 @@ A list of youtube videos can be downloaded using the following:
 
 ## Files in the project
 The list of files present in the project has the following meaning:
-* *classes.names* - this file contains the list of 10 classes/objects trained in the model
-* *yolov3_10_classes* - this file contains the configuration parameters for training and testing the network for the 10 classes
+* *classes.names* - this file contains the list of 10 classes/objects trained in the model;
+* *yolov3_10_classes.cfg* - this file contains the configuration parameters for training and testing the network for the 10 classes;
+* *yolov3_10_classes_final.weights* - trained network model using more than 10000 objects from the airport turnaround process;
+* *Video2ObjectDetection.py* - python file that should be configured and executed for detecting the events in the turnaround process.
 
 ## Solution configuration
 There are 2 configuration needed to be made before running the code:
