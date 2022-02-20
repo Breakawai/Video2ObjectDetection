@@ -21,6 +21,13 @@ There is a shortlist of turnaround airport videos available online.
 A list of youtube videos can be downloaded using the following:
 <https://drive.google.com/drive/folders/1ZuBrpAuvPmQ4P5a-26dgpZMdPjBPwRvD?usp=sharing>
 
+*Note:* The model is trained for detecting events of the turnaround process, but other videos from diferent cameras and perspectives could be used for testing the prototype. 
+
+## Files in the project
+The list of files present in the project has the following meaning:
+* *classes.names* - this file contains the list of 10 classes/objects trained in the model
+* *yolov3_10_classes* - this file contains the configuration parameters for training and testing the network for the 10 classes
+
 ## Solution configuration
 There are 2 configuration needed to be made before running the code:
 * Video Stream HTTP Connection 
