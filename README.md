@@ -1,7 +1,5 @@
 # Video2ObjectDetection
-This repo contains a lighter version of the *"Video2ObjectDetection"* prototype that allows the extraction of events in the turnaround process of the airport. 
-
-The code was inspired by the [YOLO](https://github.com/pjreddie/darknet) repository. 
+This repo contains a lighter version of the *"Video2ObjectDetection"* prototype that allows the extraction of events in the turnaround process of the airport. The code was inspired by the [YOLO](https://github.com/pjreddie/darknet) repository. 
  
 ## Requirements
 Tested with Python 3.9. Install the necessary packages with
