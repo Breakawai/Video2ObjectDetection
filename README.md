@@ -14,6 +14,8 @@ The weights file is the neural network model trained specifically for the turnar
 The model can be downloaded at the following link: 
 <https://drive.google.com/drive/folders/1MjeCrXIQclk0y9LlL--hWrUvUXPTHaEx>
 
+The weights file should be pasted into the directory folder of the project. (We need to download this file externally because GitHub doesn't allow to have large files)
+
 ## Download examples of turnaround videos
 There is a shortlist of turnaround airport videos available online. 
 A list of youtube videos can be downloaded using the following:
@@ -40,7 +42,7 @@ To create an HTTP Connection using the VLC Stream you should follow the next ste
 1. Open VLC Media Player
 2. Create a new stream connection (CTRL+S)
 3. Add the turnaround video
-4. Select the **HTTP** as a new destination
+4. Select the HTTP as a new destination
 5. Add the port number: 8080 
 6. Select a transcoding profile (usually we use a *"Video - MPEG-2 + MPGA (TS)"*)
 7. Guarantee that the video codec has a Bitrate up to 20000 kb/s
