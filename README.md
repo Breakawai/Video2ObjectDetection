@@ -12,7 +12,7 @@ The weights file is the neural network model trained specifically for the turnar
 The model can be downloaded at the following link: 
 <https://drive.google.com/drive/folders/1MjeCrXIQclk0y9LlL--hWrUvUXPTHaEx>
 
-The weights file should be pasted into the directory folder of the project. (We need to download this file externally because GitHub doesn't allow to have large files)
+The weights file should be pasted into the directory folder of the project. (We need to download this file externally because GitHub doesn't allow to have larger files)
 
 ## Download examples of turnaround videos
 There is a shortlist of turnaround airport videos available online. 
