@@ -19,7 +19,7 @@ There is a shortlist of turnaround airport videos available online.
 A list of youtube videos can be downloaded using the following:
 <https://drive.google.com/drive/folders/1ZuBrpAuvPmQ4P5a-26dgpZMdPjBPwRvD?usp=sharing>
 
-*Note:* The model is trained for detecting events of the turnaround process, but other videos from diferent cameras and perspectives could be used for testing the prototype. 
+*Note:* The model is trained for detecting events of the turnaround process, but other videos from different cameras and perspectives could be used for testing the prototype. 
 
 ## Files in the project
 The list of files present in the project has the following meaning:
@@ -29,11 +29,11 @@ The list of files present in the project has the following meaning:
 * *Video2ObjectDetection.py* - python file that should be configured and executed for detecting the events in the turnaround process.
 
 ## Solution configuration
-There are 2 configuration needed to be made before running the code:
+There are 2 configurations needed to be made before running the code:
 * Video Stream HTTP Connection 
 * Siddhi Stream HTTP Connection
 
-You should configure your HTTP connection links before running the python program. This changes needs to be done on file *"Video2ObjectDetection.py"*:
+You should configure your HTTP connection links before running the python program. These changes need to be done on file *"Video2ObjectDetection.py"*:
 ```
 # --------------------- CONFIGURATION ---------------------------------
 
