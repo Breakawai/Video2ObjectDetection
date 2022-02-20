@@ -33,7 +33,7 @@ There are 2 configuration needed to be made before running the code:
 * Video Stream HTTP Connection 
 * Siddhi Stream HTTP Connection
 
-This changes needs to be done on file *"Video2ObjectDetection.py"*:
+You should configure your HTTP connection links before running the python program. This changes needs to be done on file *"Video2ObjectDetection.py"*:
 ```
 # --------------------- CONFIGURATION ---------------------------------
 
